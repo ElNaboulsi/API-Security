@@ -1,5 +1,5 @@
 
-<h3 dir='rtl' align='right'> تنوية</h1>
+<h3 dir='rtl' align='right'>تنويه</h1>
 
 <p dir='rtl' align='right'>هذه هي النسخة النصية من مستند OWASP API Security Top 10 و يتم استخدام النسخة القابلة للتوزيع على هيئة ملف PDF </p>
 
